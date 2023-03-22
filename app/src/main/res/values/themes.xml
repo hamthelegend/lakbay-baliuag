@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.LakbayBaliuag" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#6ca40d</item>
+        <item name="android:navigationBarColor">#6ca40d</item>
+    </style>
+
+</resources>
